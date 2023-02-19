@@ -8,6 +8,10 @@
 message = 'I have eaten ' + '99' + ' burritos.'
 print (message)
 
-#fix 2: Format using latest formating style
+#fix 2: Format using old str.format() style
 message = 'I have eaten {} burritos.'.format(99)
+print (message)
+
+#fix 3: Format using latest f-strings formating style
+message = f'I have eaten {99} burritos.'
 print (message)
