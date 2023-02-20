@@ -1,10 +1,10 @@
 # mywork
 
-##Formatting Test
+## Formatting Test
 
 Comment
 
-###Program 1
+### Program 1
 
 > Brief 1
 
@@ -17,7 +17,7 @@ function test() {
 ```
 comment 2.2
 
-###Program 2
+### Program 2
 
 >Brief 2
 
@@ -30,7 +30,7 @@ function test() {
 ```
 comment 2.2
 
-###Program 3
+### Program 3
 
 >Brief 3
 
@@ -44,7 +44,7 @@ function test() {
 
 comment 3.3
 
-###Program 4
+### Program 4
 
 >Brief 4
 
