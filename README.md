@@ -1,14 +1,10 @@
-# mywork
+# Programmimg & Scripting Labs
+This repository contains labwork from my HDip in Data Analysis
 
-## Formatting Test
+### Week 01
 
-Comment
-
-### Program 1
-
-> Brief 1
-
-comment 1
+Most of this week's work involved setting up our machines for the course.
+we set-up Cmder, Anaconda, CodeVS, Github and notepad++. 
 
 ```
 function test() {
