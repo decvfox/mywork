@@ -1,3 +1,4 @@
+![]https://github.com/decvfox/mywork/blob/main/banner.png
 # Programmimg & Scripting Labs
 This repository contains labwork from my HDip in Data Analysis
 
@@ -18,7 +19,7 @@ give a prompt that looks like 3 greater than signs >>>
 
 Our first programmes. we covered the print function, inputs and string manulation.
 
-Key takeaway/learning f-strings string formatting see:
+Key takeaway/learning: f-strings string formatting 
 [Click here to learn more](https://realpython.com/python-f-strings/#:~:text=Also%20called%20%E2%80%9Cformatted%20string%20literals,the%20__format__%20protocol.)
 
 Here is an example
