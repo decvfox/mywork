@@ -26,33 +26,3 @@ Here is an example
 ```python
 print(f'Hello {name},\tyour age is {age}.')
 ```
-
-comment 2.2
-
-### Program 3
-
->Brief 3
-
-comment 3
-
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-
-comment 3.3
-
-### Program 4
-
->Brief 4
-
-comment 4
-
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-
-camment 4.4
