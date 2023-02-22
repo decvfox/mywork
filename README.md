@@ -1,4 +1,5 @@
-![]https://github.com/decvfox/mywork/blob/main/banner.png
+ ![](https://github.com/decvfox/mywork/blob/main/banner.png)
+
 # Programmimg & Scripting Labs
 This repository contains labwork from my HDip in Data Analysis
 
