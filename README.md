@@ -28,3 +28,45 @@ Here is an example
 ```python
 print(f'Hello {name},\tyour age is {age}.')
 ```
+
+### Week 05
+
+#### Lab 05-Data Structures
+
+lab5.1.2-summerMonths.py
+
+Tuples
+
+stores the 12 months of the year and prints the summer months
+
+lab5.1.3-popFromList.py
+
+Lists
+
+A program that puts 10 random numbers into a queue(list), the
+program should then output all the values in the queue, then take the
+numbers from the queue one at a time, print it and the current numbers still
+in the queue
+
+```python
+print ("current Number is {currentNumber} and the queue is {queue} ")
+```
+should be:
+```python
+print (f"current Number is {currentNumber} and the queue is {queue} ")
+```
+
+lab5.1.4-studentCourseGrade.py
+
+Dicts
+
+Write a program that stores a student name and a list of her courses and
+grades in a dict, the program should then print out her data
+
+```python
+print("\t {} \t: {}".format(module["courseName"], module["grade"]))
+```
+updated to
+```python
+print(f"\t {module['courseName']} \t: {module['grade']}")
+```
