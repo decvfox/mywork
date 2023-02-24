@@ -7,7 +7,7 @@
 students = []
 
 def student_data():
-    "function to get student's name and grades"
+    """function to get student's name and grades"""
     modules = []
     course = ' '
     grade = ' '
