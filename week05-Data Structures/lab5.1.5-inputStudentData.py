@@ -1,5 +1,6 @@
 # lab5.1.5-inputStudentData.py
 # Write a program that will read in the data for the data structure in lab5.1.4
+# ref https://www.w3schools.com/python/python_dictionaries.asp
 # Author: Declan Fox
 
 modules = []
