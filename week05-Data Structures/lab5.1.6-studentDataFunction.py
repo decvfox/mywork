@@ -1,12 +1,13 @@
 # lab5.1.6-studentDataFunction.py
 # write a function that that will read in the data for the data structure in lab5.1.4
 # ref https://www.w3schools.com/python/python_dictionaries.asp
+# https://www.tutorialspoint.com/python/python_functions.htm
 # Author: Declan Fox
 
 students = []
 
 def student_data():
-    # function to get student's name and grades
+    "function to get student's name and grades"
     modules = []
     course = ' '
     grade = ' '
